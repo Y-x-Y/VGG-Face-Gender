@@ -1,6 +1,6 @@
 # VGG-Face Transfer Learning
 ### Requirement
-The following packages are needed for this project:
+The following packages are needed for this project:  
 tensorflow 1.1X  
 pickle  
 opencv
